@@ -1,0 +1,25 @@
+{
+"products":
+[
+{"id":1,"name":"Least chipmunk","category":"Purple"},
+{"id":2,"name":"Buffalo, american","category":"Pink"},
+{"id":3,"name":"Yellow mongoose","category":"Blue"},
+{"id":4,"name":"Great kiskadee","category":"Indigo"},
+{"id":5,"name":"Argalis","category":"Green"},
+{"id":6,"name":"Black-cheeked waxbill","category":"Teal"},
+{"id":7,"name":"Rhinoceros, white","category":"Green"},
+{"id":8,"name":"Black-tailed tree creeper","category":"Khaki"},
+{"id":9,"name":"Nyala","category":"Puce"},
+{"id":10,"name":"Squirrel, antelope ground","category":"Puce"},
+{"id":11,"name":"Southern black-backed gull","category":"Puce"},
+{"id":12,"name":"Little brown bat","category":"Yellow"},
+{"id":13,"name":"Eastern grey kangaroo","category":"Violet"},
+{"id":14,"name":"Rabbit, eastern cottontail","category":"Crimson"},
+{"id":15,"name":"Skunk, striped","category":"Indigo"},
+{"id":16,"name":"Gambel's quail","category":"Pink"},
+{"id":17,"name":"Turaco, violet-crested","category":"Aquamarine"},
+{"id":18,"name":"Whale, killer","category":"Pink"},
+{"id":19,"name":"Northern fur seal","category":"Maroon"},
+{"id":20,"name":"Heron, boat-billed","category":"Yellow"}
+]
+}
